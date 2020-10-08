@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- *
+ * ask user for 2 numbers, tell the user the numbers in ascending order
  * @author Graham Ellacott
  */
 public class Main {
